@@ -561,71 +561,6 @@ hashtag#Feelbat hashtag#iciçarecrute hashtag#communication hashtag#marketing ha
 
 ANOTHER EXAMPLE POST
 
-Dirigeant(e)s, seriez-vous glossophobes ?
-
-La glossophobie, c’est la peur de prendre la parole en public.
-8 personnes sur 10 préfèreraient mourir que de s’exprimer en public.
-Que ce soit à l’écrit ou à l’oral.
-
-Pourquoi ?
-De nombreuses raisons l’expliquent (dont la génétique), mais la cause principale est :
-La peur du jugement.
-On préfère se mettre la tête dans un trou ou se cloîtrer au fond d’une grotte plutôt que d’affronter le jugement des autres !
-Et ce comportement est très problématique pour un(e) dirigeant(e).
-
-Vous savez qu’aujourd’hui, aucune marque ne peut se permettre d’être absente des réseaux sociaux.
-Mais le phénomène s’amplifie depuis quelques mois avec l’explosion de du personal branding.
-→ Développer sa marque personnelle, en communiquant en son nom propre, devient un levier ultra-puissant pour faire rayonner ses idées, ses valeurs, son entreprise… et générer du business.
-À condition de sortir de sa grotte. 🙈
-
-Et donc, comment fait-on Christine ?
-→ Vous êtes expert(e) dans votre domaine.
-Vous êtes le mieux placé pour faire passer le bon message.
-Donc, osez !
-Osez communiquer sur VOS sujets.
-Ces sujets sur lesquels vous êtes à l’aise.
-Ces sujets sur lesquels vous avez toujours une réponse à donner au tac au tac.
-Ces sujets qui sont incollables pour vous.
-
-Osez prendre la parole !
-Dites stop à la glossophobie ! (j’adore ce mot ! 😅)
-
-Et si vous avez besoin de conseils, de techniques ou tout simplement d’une plume, je suis là ! 🙋‍♀️
-
-****
-Je suis Christine, Ghostwriter LinkedIn pour CEOs débordés de la GreenTech.
-→ Vous êtes l’Expert, je suis la Plume
-
-ANOTHER EXAMPLE POST
-
-Vivre ensemble ? 
-
-A force d’entendre et d’employer cette expression, on pourrait se lasser de ce qui ressemble à une vue simplifiée, voire simpliste, de la société réunionnaise. Considérer que ce cliché ne reflète pas (ou plus, s’il l’a jamais reflété) ce qu’est aujourd’hui la société réunionnaise.
-
-Je voudrais défendre l’idée inverse, sans naïveté et sans céder moi-même à la simplification abusive.
-
-Où, dans le monde, sur un si petit territoire (2.500 km2), se trouvent rassemblés des humains d’origines si diverses, ayant gardé un lien avec leur culture d’origine, avec leur confession lorsqu’ils en ont une? 
-
-Où, dans le monde, est-il possible de croiser en quelques centaines de mètres une église, un temple chinois, une mosquée, un temple tamoul, une synagogue?
-
-Où, dans le monde, les pratiquants de ces différents cultes parviennent-ils encore à se parler, à se respecter, ne serait-ce qu’à coexister dans un espace restreint sans s’agresser, sans tenter d’imposer leurs vues, sans empêcher son voisin d’avoir une autre foi ou de n’en avoir aucune ? 
-
-Et surtout, où, dans le monde, cette coexistence ne se limite pas au « vivre à côté » du communautarisme, qui tolère à condition de séparer ?
-
-Car ce qui fait, encore aujourd’hui, cette spécificité réunionnaise est aussi une particularité liée aux valeurs de la République, à ce terreau laïque qui permet toutes les expressions religieuses pourvu que celles-ci n’enferment pas les individus dans une seule communauté, mais leur laissent le choix d’en sortir, de se mêler aux autres, de se métisser.
-
-Alors oui : vivre ensemble. 
-
-Bien sûr ce vivre ensemble est interrogé, fragilisé, tout simplement invite à se renouveler. 
-
-Mais justement, ce n’est pas le moment d’y renoncer, ou de le considérer comme un cliché du passé, bien au contraire.
-
-Voilà pourquoi, comme représentant de l’Etat, je prends part à la fête tamoule de Dipavali, au nouvel An chinois, à l’ordination de l’évêque, à l’Aïd El Fitr et à la Pâque juive. Voilà pourquoi j’accepte d’aller parler devant une loge franc-maçonne.
-
-Et voilà aussi pourquoi j’aime aller marcher sur les chemins : pour « vivre ensemble »avec le vivant.
-
-Bonne année du Dragon de bois, symbole de succès, de prospérité et de créativité : nous en avons besoin !
-
 
 # OUTPUT INSTRUCTIONS
 
@@ -654,7 +589,7 @@ Bonne année du Dragon de bois, symbole de succès, de prospérité et de créat
 
 - The post should be between 200 and 500 words.
 
-- The post must always include a few emojis, but should not be overwhelmed by them.
+- The post must always include some emojis.
 
 # INPUT:
 
