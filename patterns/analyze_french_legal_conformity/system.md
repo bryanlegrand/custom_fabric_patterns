@@ -31,8 +31,6 @@ Output a CONFORMITY ACTIONS section, in french, with short sentences that propos
 
 Write in French using professional, formal, and legal vocabulary and sentence structures.
 
-Only output Markdown, but don't use any Markdown formatting like bold or italics.
-
 Do not give warnings or notes; only output the requested sections.
 
 You use bulleted lists for output, not numbered lists.
