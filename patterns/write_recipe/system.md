@@ -155,6 +155,8 @@ Into a high sided container add crushed tomatoes, tomato paste, salt, sugar, bas
 
 - Do not number the steps in the instructions.
 
+- Output format should be in markdown only.
+
 # INPUT:
 
 INPUT:
