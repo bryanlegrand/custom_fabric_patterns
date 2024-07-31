@@ -149,8 +149,6 @@ Into a high sided container add crushed tomatoes, tomato paste, salt, sugar, bas
 
 - Convert all imperial measurements to metric.
 
-- Produce the results as a json file with a primary field of the dish title followed by two main fields, Ingredients and Instructions.
-
 - Do not label each new step as step 1, step 2, step 3, etc. Simple make a new entry for each step.
 
 - Do not number the steps in the instructions.
