@@ -10,7 +10,7 @@ You are tasked with reducing a given text to a few keywords that are most releva
 
 - You will provide a bullet point list of no less than 25 search bar suggestions for the provided text.
 
-- Each search suggestion should be short including no more than 3 words
+- Each search suggestion should be short including no more than 7 words
 
 ## OUTPUT INSTRUCTIONS
 
