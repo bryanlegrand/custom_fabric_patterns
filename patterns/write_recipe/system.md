@@ -12,23 +12,23 @@ Better Than Takeout Dan Dan Noodles:
 (Recipe makes 2-4 portions, depending on how hungry you are)
 
 Sauce
-▪350g (12oz) Ground Pork
-▪125g (1/2c) Chili Crisp
-▪30g (2T) Tahini
-▪125g (1/2c) Chicken Stock
-▪10g (2 1/2t) Sugar
-▪40g (2T) Soy Sauce
-▪5g (1t) Sesame Oil
-▪2g (1t) Chinese Five Spice
-▪40g (2T) Hoisin
-▪40g (2 1/2T) Mirin
-▪190g (1 bunch or 1/2lb) Broccolini, cut into thin coins, leaving florets intact
-▪200g (7oz) Spaghetti Noodles
+350g (12oz) Ground Pork
+125g (1/2c) Chili Crisp
+30g (2T) Tahini
+125g (1/2c) Chicken Stock
+10g (2 1/2t) Sugar
+40g (2T) Soy Sauce
+5g (1t) Sesame Oil
+2g (1t) Chinese Five Spice
+40g (2T) Hoisin
+40g (2 1/2T) Mirin
+190g (1 bunch or 1/2lb) Broccolini, cut into thin coins, leaving florets intact
+200g (7oz) Spaghetti Noodles
 
 Garnish:
-▪Scallions, cut thinly (greens only) 
-▪Chopped Peanuts, dust sifted out
-▪Sesame Seeds
+Scallions, cut thinly (greens only) 
+Chopped Peanuts, dust sifted out
+Sesame Seeds
 
 INSTRUCTIONS:
 1. Bring a pot of water to a boil.
@@ -44,27 +44,27 @@ ANOTHER EXAMPLE RECIPE
 
 Steak Au Poivre Recipe
 Ingredients:
-▪2 x 8oz/225g filet mignon steaks 
-▪Salt 
-▪250-300g (~1 3/4c) whole black peppercorns, coarsely cracked
-▪High smoke point oil (e.g., canola, avocado, or peanut oil)
-▪75g (3 medium) shallots, brunoised
-▪10g (2 cloves) minced garlic
-▪2-3 sprigs fresh thyme
-▪125g (1/2 cup) brandy or cognac
-▪25g (1 ½ T) Dijon mustard
-▪150g (2/3c) beef stock
-▪150g (2/3c) heavy cream
-▪45g (3T) unsalted butter
-▪1-2g (1/2 teaspoon) freshly ground black pepper (for the sauce)
+2 x 8oz/225g filet mignon steaks 
+Salt 
+250-300g (~1 3/4c) whole black peppercorns, coarsely cracked
+High smoke point oil (e.g., canola, avocado, or peanut oil)
+75g (3 medium) shallots, brunoised
+10g (2 cloves) minced garlic
+2-3 sprigs fresh thyme
+125g (1/2 cup) brandy or cognac
+25g (1 ½ T) Dijon mustard
+150g (2/3c) beef stock
+150g (2/3c) heavy cream
+45g (3T) unsalted butter
+1-2g (1/2 teaspoon) freshly ground black pepper (for the sauce)
 
 *For the garlic roasted asparagus*:
-▪500g (1 lb) asparagus, tough ends trimmed off
-▪1-2T olive oil
-▪Salt and pepper
-▪30g (2T) butter
-▪4-5 cloves garlic, minced
-▪Fresh lemon juice
+500g (1 lb) asparagus, tough ends trimmed off
+1-2T olive oil
+Salt and pepper
+30g (2T) butter
+4-5 cloves garlic, minced
+Fresh lemon juice
 
 Instructions:
 1. Generously salt the steaks on all sides. Allow them to dry brine at room temperature for 30-60 minutes.
@@ -94,12 +94,12 @@ ANOTHER EXAMPLE RECIPE
 
 
 RECIPE - Makes 4 Pizzas
-▪400g (1 2/3c) Warm Water, 86F/30C
-▪20g (1 1/2T) Extra virgin olive oil
-▪7g (2t) Instant Yeast
-▪15g (1T) Salt
-▪20g (2T) granulated sugar
-▪680g (5 3/4c) All-purpose flour: 
+400g (1 2/3c) Warm Water, 86F/30C
+20g (1 1/2T) Extra virgin olive oil
+7g (2t) Instant Yeast
+15g (1T) Salt
+20g (2T) granulated sugar
+680g (5 3/4c) All-purpose flour: 
 
 Instructions:
 1. Mix warm water with olive oil, yeast, salt, and sugar then use a sturdy spook to gradually add 680g (about 5 1/3 cups) of all-purpose flour to the bowl and combine until flour has hydrated and has formed into a clump of dough.
@@ -117,15 +117,15 @@ To make the pizza in a cast iron pan instead, press a dough ball into an oiled c
 
 PIZZA SAUCE RECIPE: 
 (makes enough for 4+ pizzas - I usually freeze half) 
-▪28oz can crushed tomatoes 
-▪100g 6Tbsp tomato paste
-▪12g or 2 tsp salt 
-▪20g or 1 2/3Tbsp sugar
-▪2g or 2 3/4tsp dried basil 
-▪2g or 2tsp dried oregano 
-▪1g or 1/2tsp chili flake 
-▪2g or 3/4tsp garlic powder
-▪2g or 3/4 tsp onion powder 
+28oz can crushed tomatoes 
+100g 6Tbsp tomato paste
+12g or 2 tsp salt 
+20g or 1 2/3Tbsp sugar
+2g or 2 3/4tsp dried basil 
+2g or 2tsp dried oregano 
+1g or 1/2tsp chili flake 
+2g or 3/4tsp garlic powder
+2g or 3/4 tsp onion powder 
 
 Into a high sided container add crushed tomatoes, tomato paste, salt, sugar, basil, oregano, chili flake, garlic powder, and onion powder. Spin with immersion blender to break down to smooth, but still has texture.
 
